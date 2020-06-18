@@ -13,7 +13,6 @@ html {
   cursor: pointer;
   color: var(--primary-color);
   font-family: var(--primary-font);
-  webkit-font-smoothing: antialiased;
   letter-spacing: 0.050em;
 }
 
